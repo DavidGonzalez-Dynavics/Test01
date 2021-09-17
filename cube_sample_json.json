@@ -1,0 +1,20 @@
+{
+    "specialised_invrpt": {
+        "GetStockInfoNewOrdersForSeasonResult": {
+            "Code": "0",
+            "Message": "OK",
+            "StockInfoV3Collection": {
+                "StockInfoV3": [
+                    {
+                        "item_EAN_UPC": "4260125819390",
+                        "item_code": "10012",
+                        "stockQuantity": "10",
+                        "stockStatus": "1"
+                    }
+                ]
+            }
+        },
+        "sender": "Cube",
+        "receiver": "..."
+    }
+}
